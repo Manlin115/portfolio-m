@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 482 516" style="enable-background:new 0 0 482 516;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000075132807959973291140000015826010205986912663_);filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{mask:url(#mask0_963_685_00000010294013998051048290000018156553388802002106_);}
+	.st3{fill:none;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="373.2474" y1="397.2749" x2="-109.7526" y2="-40.2252" gradientTransform="matrix(1 0 0 -1 0 518)">
+	<stop  offset="0" style="stop-color:#860095"/>
+	<stop  offset="1" style="stop-color:#FA15FF"/>
+</linearGradient>
+<path class="st0" d="M393.1,63.7c44.1,39.8,70.9,97.6,82.4,158.7c11.9,61.1,8.8,125.9-21.9,170.8c-30.4,45-88.5,70.5-147.8,92.4
+	c-59.6,21.9-120.5,40.4-171,24.3c-50.2-16.1-89.7-66.6-111.6-120.1C1.3,336.6-2.9,280.7,1.6,220.8C5.9,160.9,18.4,97.1,57.3,56.7
+	C95.9,15.9,161-1.7,224,0.1C287.3,2.3,349,23.8,393.1,63.7z"/>
+<image style="overflow:visible;" width="2336" height="3504" xlink:href="../../../../../Downloads/WhatsApp Image 2024-08-07 at 10.44.05 AM.jpeg"  transform="matrix(0.2405 0 0 0.1787 -859.952 -1813.9994)">
+</image>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="42" y="-127" width="470" height="706">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="42" y="-127" width="470" height="706" id="mask0_963_685_00000010294013998051048290000018156553388802002106_">
+	
+		<linearGradient id="SVGID_00000128480498776729899220000008703222912790955398_" gradientUnits="userSpaceOnUse" x1="373.2474" y1="397.2749" x2="-109.7526" y2="-40.2252" gradientTransform="matrix(1 0 0 -1 0 518)">
+		<stop  offset="0" style="stop-color:#860095"/>
+		<stop  offset="1" style="stop-color:#FA15FF"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000128480498776729899220000008703222912790955398_);filter:url(#Adobe_OpacityMaskFilter);" d="
+		M393.1,63.7c44.1,39.8,70.9,97.6,82.4,158.7c11.9,61.1,8.8,125.9-21.9,170.8c-30.4,45-88.5,70.5-147.8,92.4
+		c-59.6,21.9-120.5,40.4-171,24.3c-50.2-16.1-89.7-66.6-111.6-120.1C1.3,336.6-2.9,280.7,1.6,220.8C5.9,160.9,18.4,97.1,57.3,56.7
+		C95.9,15.9,161-1.7,224,0.1C287.3,2.3,349,23.8,393.1,63.7z"/>
+</mask>
+<g class="st2">
+	<rect x="42" y="-127" class="st3" width="470" height="706"/>
+</g>
+<g>
+	<defs>
+		<ellipse id="SVGID_00000170279114146799853780000015219270997366822306_" cx="285.5" cy="247.2" rx="183.1" ry="222.1"/>
+	</defs>
+	<use xlink:href="#SVGID_00000170279114146799853780000015219270997366822306_"  style="overflow:visible;fill:#606060;"/>
+	<clipPath id="SVGID_00000019675755373375018320000007066783779114218413_">
+		<use xlink:href="#SVGID_00000170279114146799853780000015219270997366822306_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000019675755373375018320000007066783779114218413_);">
+		
+			<image style="overflow:visible;" width="2336" height="3504" xlink:href="../../../../../Downloads/WhatsApp Image 2024-08-07 at 10.44.05 AM.jpeg"  transform="matrix(0.1692 0 0 0.1673 73.3804 -62.0064)">
+		</image>
+	</g>
+	
+		<use xlink:href="#SVGID_00000170279114146799853780000015219270997366822306_"  style="overflow:visible;fill:none;stroke:#602671;stroke-width:26;stroke-miterlimit:10;"/>
+</g>
+</svg>
